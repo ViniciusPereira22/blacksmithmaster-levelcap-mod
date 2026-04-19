@@ -55,8 +55,6 @@ Keys:
 dotnet build .\\ModProjects\\BlacksmithMaster.LevelCapMod\\BlacksmithMaster.LevelCapMod.csproj -c Release
 ```
 
-If NuGet restore is blocked, use the Roslyn offline compile flow already documented in `AGENTS.md`.
-
 ## Install
 Copy:
 `ModProjects\\BlacksmithMaster.LevelCapMod\\bin\\Release\\net48\\BlacksmithMaster.LevelCapMod.dll`
